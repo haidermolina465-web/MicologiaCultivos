@@ -1,12 +1,4 @@
-Set-Location "C:\Temp\MicologiaCultivos"
 
-# Borrar README si está vacío o existe
-if (Test-Path "README.md") {
-    Remove-Item "README.md" -Force
-}
-
-# Escribir el README completo (método .NET, muy fiable)
-$texto = @"
 # Micología aplicada – Seguimiento de cultivos de setas
 
 ## Problema
