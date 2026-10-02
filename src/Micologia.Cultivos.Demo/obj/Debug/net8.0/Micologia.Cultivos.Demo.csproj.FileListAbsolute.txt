@@ -1,0 +1,14 @@
+C:\Temp\MicologiaCultivos\src\Micologia.Cultivos.Demo\bin\Debug\net8.0\Micologia.Cultivos.Demo.exe
+C:\Temp\MicologiaCultivos\src\Micologia.Cultivos.Demo\bin\Debug\net8.0\Micologia.Cultivos.Demo.deps.json
+C:\Temp\MicologiaCultivos\src\Micologia.Cultivos.Demo\bin\Debug\net8.0\Micologia.Cultivos.Demo.runtimeconfig.json
+C:\Temp\MicologiaCultivos\src\Micologia.Cultivos.Demo\bin\Debug\net8.0\Micologia.Cultivos.Demo.dll
+C:\Temp\MicologiaCultivos\src\Micologia.Cultivos.Demo\bin\Debug\net8.0\Micologia.Cultivos.Demo.pdb
+C:\Temp\MicologiaCultivos\src\Micologia.Cultivos.Demo\obj\Debug\net8.0\Micologia.Cultivos.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\MicologiaCultivos\src\Micologia.Cultivos.Demo\obj\Debug\net8.0\Micologia.Cultivos.Demo.AssemblyInfoInputs.cache
+C:\Temp\MicologiaCultivos\src\Micologia.Cultivos.Demo\obj\Debug\net8.0\Micologia.Cultivos.Demo.AssemblyInfo.cs
+C:\Temp\MicologiaCultivos\src\Micologia.Cultivos.Demo\obj\Debug\net8.0\Micologia.Cultivos.Demo.csproj.CoreCompileInputs.cache
+C:\Temp\MicologiaCultivos\src\Micologia.Cultivos.Demo\obj\Debug\net8.0\Micologia.Cultivos.Demo.dll
+C:\Temp\MicologiaCultivos\src\Micologia.Cultivos.Demo\obj\Debug\net8.0\refint\Micologia.Cultivos.Demo.dll
+C:\Temp\MicologiaCultivos\src\Micologia.Cultivos.Demo\obj\Debug\net8.0\Micologia.Cultivos.Demo.pdb
+C:\Temp\MicologiaCultivos\src\Micologia.Cultivos.Demo\obj\Debug\net8.0\Micologia.Cultivos.Demo.genruntimeconfig.cache
+C:\Temp\MicologiaCultivos\src\Micologia.Cultivos.Demo\obj\Debug\net8.0\ref\Micologia.Cultivos.Demo.dll

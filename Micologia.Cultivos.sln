@@ -1,0 +1,29 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6226B32F-E4FB-4FA5-B5A0-EB3C7F7B6C97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Micologia.Cultivos.Demo", "src\Micologia.Cultivos.Demo\Micologia.Cultivos.Demo.csproj", "{6F816F3D-AF41-4A5F-8B31-2A14A7B91A0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Micologia.Cultivos.Tests", "src\Micologia.Cultivos.Tests\Micologia.Cultivos.Tests.csproj", "{40D7166E-F3B2-4ECF-BBF7-734A0BBCA251}"
+EndProject
+Global
+GlobalSection(SolutionConfigurationPlatforms) = preSolution
+Debug|Any CPU = Debug|Any CPU
+Release|Any CPU = Release|Any CPU
+EndGlobalSection
+GlobalSection(SolutionProperties) = preSolution
+HideSolutionNode = FALSE
+EndGlobalSection
+GlobalSection(ProjectConfigurationPlatforms) = postSolution
+{6F816F3D-AF41-4A5F-8B31-2A14A7B91A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+{6F816F3D-AF41-4A5F-8B31-2A14A7B91A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+{6F816F3D-AF41-4A5F-8B31-2A14A7B91A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+{6F816F3D-AF41-4A5F-8B31-2A14A7B91A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+{40D7166E-F3B2-4ECF-BBF7-734A0BBCA251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+{40D7166E-F3B2-4ECF-BBF7-734A0BBCA251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+{40D7166E-F3B2-4ECF-BBF7-734A0BBCA251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+{40D7166E-F3B2-4ECF-BBF7-734A0BBCA251}.Release|Any CPU.Build.0 = Release|Any CPU
+EndGlobalSection
+EndGlobal
