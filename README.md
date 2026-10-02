@@ -37,3 +37,40 @@ El programa de consola (`Program.cs`) demuestra el funcionamiento de cada patró
 
 ```bash
 git clone https://github.com/haidermolina465-web/MicologiaCultivos.git
+Paso 2. Entrar en la carpeta del proyecto
+cd MicologiaCultivos
+Paso 3. Compilar la solución
+dotnet build Micologia.Cultivos.sln
+Si todo es correcto, aparecerá: Build succeeded.
+
+Paso 4. Ejecutar la demostración
+dotnet run --project src/Micologia.Cultivos.Demo
+Al ejecutarlo se mostrará por consola, paso a paso, cómo funcionan los 4 patrones de diseño.
+
+Paso 5. Ejecutar las pruebas
+dotnet test Micologia.Cultivos.sln
+Deben aparecer 7 pruebas superadas: Passed: 7, Failed: 0.
+
+Estructura del proyecto
+MicologiaCultivos/
+├── Micologia.Cultivos.sln
+├── README.md
+├── DEFENSA.md
+├── openspec/
+│   └── specs/
+│       └── micologia-cultivos/
+│           └── spec.md
+└── src/
+    ├── Micologia.Cultivos.Demo/
+    │   ├── Program.cs
+    │   ├── Micologia.Cultivos.Demo.csproj
+    │   ├── Common/
+    │   ├── Model/
+    │   ├── Builder/
+    │   ├── Composite/
+    │   ├── Decorator/
+    │   └── Proxy/
+    └── Micologia.Cultivos.Tests/
+        ├── MicologiaCultivosTests.cs
+        └── Micologia.Cultivos.Tests.csproj
+        
